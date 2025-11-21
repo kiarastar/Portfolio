@@ -21,8 +21,6 @@
 <div class=grid-container>
   <img src="./images/01.jpg">
   <img src="./images/02.jpg">
-  <img src="./images/03.jpg">
-  <img src="./images/04.jpg">
 </div>
 <a href="https://rastarkia.wixsite.com/kiarastar/dammed-and-erased" target="_blank">Full Story</a>
 <button onclick="window.location.href = 'https://rastarkia.wixsite.com/kiarastar/dammed-and-erased';">Full Story</button>
